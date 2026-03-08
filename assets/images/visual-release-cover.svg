@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Release key art template">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f1a"/>
+      <stop offset="1" stop-color="#1f1a2d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="460" rx="22" fill="rgba(126,209,255,0.15)" stroke="rgba(255,255,255,0.28)" stroke-width="2"/>
+  <rect x="70" y="560" width="1060" height="170" rx="14" fill="rgba(240,198,116,0.14)"/>
+  <text x="120" y="625" fill="rgba(255,255,255,0.95)" font-size="34" font-family="system-ui,Segoe UI,Arial">Release Key Art Placeholder</text>
+  <text x="120" y="670" fill="rgba(255,255,255,0.78)" font-size="21" font-family="system-ui,Segoe UI,Arial">Artist • Title • Release Date • Streaming Link</text>
+</svg>
