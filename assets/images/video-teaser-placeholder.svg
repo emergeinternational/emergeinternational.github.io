@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Video teaser placeholder template">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0f16"/>
+      <stop offset="1" stop-color="#1a1522"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="80" y="80" width="1040" height="520" rx="20" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.14)"/>
+  <circle cx="600" cy="340" r="82" fill="rgba(255,255,255,0.10)"/>
+  <polygon points="575,295 575,385 650,340" fill="rgba(255,255,255,0.82)"/>
+  <rect x="80" y="630" width="1040" height="95" rx="12" fill="rgba(255,255,255,0.04)"/>
+  <text x="120" y="690" fill="rgba(255,255,255,0.66)" font-size="20" font-family="system-ui,Segoe UI,Arial">Slot D — Video teaser / premiere poster frame + watch link</text>
+</svg>

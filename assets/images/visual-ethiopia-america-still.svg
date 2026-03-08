@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Ethiopia and America campaign still template">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1217"/>
+      <stop offset="1" stop-color="#121a24"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="510" rx="20" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.14)"/>
+  <text x="120" y="180" fill="rgba(255,255,255,0.80)" font-size="36" font-family="system-ui,Segoe UI,Arial">Ethiopia ↔ America Visual Slot</text>
+  <text x="120" y="235" fill="rgba(255,255,255,0.58)" font-size="20" font-family="system-ui,Segoe UI,Arial">Use for approved stills, location-led campaign frames, and artist portrait moments.</text>
+  <rect x="70" y="620" width="1060" height="110" rx="14" fill="rgba(255,255,255,0.04)"/>
+  <text x="120" y="685" fill="rgba(255,255,255,0.68)" font-size="19" font-family="system-ui,Segoe UI,Arial">Credits / Location / Campaign Link</text>
+</svg>
